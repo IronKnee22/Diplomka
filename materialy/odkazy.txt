@@ -2,6 +2,38 @@ https://www.meteosource.com/cs/cenik
 
 https://www.meteosource.com/api/v1/free/point?lat=50.135365&lon=14.104330&sections=all&timezone=Europe/Prague&language=en&units=metric&key=k0rqs4gyi4bgoicjizl42es2zux3y4kg1dvio6od
 
+https://spotovaelektrina.cz/api/v1/price/get-prices-json
+
 https://www.chmi.cz/files/portal/docs/meteo/ov/aladin/results/ala.html#nebul,nebuldet?
 https://www.chmi.cz/files/portal/docs/meteo/ov/aladin/alanim/alanim.html
 https://www.chmi.cz/files/portal/docs/meteo/ov/aladin/results/public/meteogramy/mhtml/m.html#Kladno%20(okr.%20Kladno)
+
+
+nxp
+
+home asistent projekt open sorce
+
+modularní a rozšiřitelné a by to bylo co nejvíc na home asistentovy a aby to šlo co nejrychleji al nejlépe přidat
+
+nejdůležitjší je optimalizace
+
+první zkouska zasvítí sluníčko a něco sepne
+
+priorita
+
+protokol metr - ale mělo by to být zapozdřeny v home asistentovy
+
+home asistent na celou domácnost nebo jenom na jednotlivé prvky
+
+petr.struzka@nxp.com
+             na.com - psát sem
+
+
+rasbery py 
+
+cerbo - program do cerba
+
+
+
+
+
