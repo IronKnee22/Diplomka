@@ -9,11 +9,8 @@ hours_today = data.get("hoursToday", [])
 # Zpracování jednotlivých hodin
 for hour_data in hours_today:
     hour = hour_data.get("hour")
-    price_eur = hour_data.get("priceEur")
-    price_czk = hour_data.get("priceCZK")
-    level = hour_data.get("level")
 
-    print(
-        f"Hodina: {hour}, Cena (CZK): {price_czk}, Cena (EUR): {price_eur}, Úroveň: {level}"
-    )
+    price_czk = hour_data.get("priceCZK")
+
+    print(f"Hodina: {hour}, Cena: {price_czk} Kč")
     pass
